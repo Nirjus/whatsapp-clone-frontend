@@ -3,9 +3,6 @@ export default {
   content: ["./index.html","./src/**/*.{html,js,jsx}"],
   theme: {
     extend: {
-      backgroundImage:{
-        "chat-background": "url('./src/assets/images/chat-bg.png')",
-      },
       colors: {
         secondary: "#8696a0",
         "teal-light": "#7ae3c3",

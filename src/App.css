@@ -17,3 +17,6 @@
 .custom-scrollbar::-webkit-scrollbar-thumb{
     background-color: #fff3bf;
 }
+.bg-chat-background{
+    background-image: url("./assets/images/chat-bg.png");
+}
